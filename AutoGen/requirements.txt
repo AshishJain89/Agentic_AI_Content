@@ -1,0 +1,7 @@
+python-dotenv
+ag2[openai]
+pandas
+numpy
+matplotlib
+yfinance
+requests
