@@ -1,0 +1,14 @@
+python-dotenv
+ipykernel
+mcp
+qdrant-client
+llama-index
+tqdm
+einops
+
+langchain
+langchain_groq
+langchain_huggingface
+groq
+
+black
